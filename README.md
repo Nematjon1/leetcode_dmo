@@ -1,2 +1,2 @@
-# leetcode_dmo
+# leetcode_demo
 Leetcode solved problems.
